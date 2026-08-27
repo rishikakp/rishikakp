@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishika</h1>
 
-<!--
-**rishikakp/rishikakp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Developer • Builder • AI Explorer</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I enjoy turning ideas into practical applications and exploring how technology can create smarter, more meaningful solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 💻 Building with **Java, Spring Boot, Python, JavaScript & React**
+- 🤖 Exploring **Artificial Intelligence** and AI-powered applications
+- 🚀 Interested in building **scalable, intelligent, and impactful software**
+- 🌱 Always learning, experimenting, and improving through projects
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,react,html,css,postgres,mongodb,git,github,docker" />
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Create. Repeat. 🚀</i>
+</p>
