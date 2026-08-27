@@ -5,36 +5,34 @@
 ### `Building applications with purpose. Exploring intelligence beyond code.`
 
 <p>
-  <a href="[REPLACE_LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/rishika-kp-1aa048414/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[REPLACE_EMAIL]">
+  <a href="mailto:rishikakpk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/[REPLACE_GITHUB_USERNAME]">
+  <a href="https://github.com/rishikakpc">
     <img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Java+%7C+Full-Stack+Development+%7C+Artificial+Intelligence;Turning+ideas+into+applications+that+solve+real+problems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Java+%7C+Full-Stack+Development+%7C+Artificial+Intelligence;Turning+ideas+into+applications+that+solve+real+problems." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-```text
-rishika@github:~$ whoami
-```
+## `rishika@github:~$ whoami`
 
-I'm **Rishika**, an MCA student at **Ramaiah Institute of Technology** with a strong interest in building meaningful software.
+I'm **Rishika**, an MCA student at **Ramaiah Institute of Technology**, building my path through software development one project at a time.
 
-I enjoy working with **Java and full-stack technologies** to turn ideas into practical applications—from platforms that solve real-world problems to interactive web experiences.
+My primary language is **Java**, and I enjoy working across the stack to turn ideas into practical applications. From building platforms that address real-world problems to creating interactive user experiences, I like understanding how different pieces of an application come together.
 
-My curiosity currently extends into **Artificial Intelligence**, particularly how intelligent systems can make applications more useful, responsive, and impactful.
+I'm also exploring **Artificial Intelligence** and the potential of intelligent systems to make software more useful, adaptive, and meaningful.
 
-I started with a BCA from **Adichunchanagiri Institute of Business Management** and continue to grow by building, experimenting, and learning through every project.
+Previously, I completed my **BCA at Adichunchanagiri Institute of Business Management**. Today, I'm focused on learning by building, experimenting, and taking ideas beyond the screen.
 
-> **I don't just want to write code that works. I want to understand what makes an application useful.**
+> **I don't just want to write code that works. I want to build things that are worth using.**
 
 <br/>
 
@@ -86,7 +84,7 @@ I started with a BCA from **Adichunchanagiri Institute of Business Management** 
 
 A platform focused on improving civic engagement by allowing citizens to register, track, and manage civic complaints.
 
-I worked on implementing core functionality around **complaint registration, tracking, and issue management**, with a focus on connecting application logic with reliable data handling.
+I worked with **Java and SQL** to implement functionality around complaint registration, tracking, and issue management, helping create a structured way to manage reported civic issues.
 
 **Built with**
 
@@ -100,17 +98,18 @@ I worked on implementing core functionality around **complaint registration, tra
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### DSA Insights
 
 **Interactive Learning & AI Platform**
 
-A full-stack platform designed to create a more interactive approach to coding practice and preparation.
+A full-stack platform designed to create a more interactive learning and coding experience.
 
-The platform includes an **interactive coding environment, AI-powered mock interviews, multi-language code execution, performance tracking, and AI-based features**.
+The platform features an **interactive coding environment, AI-powered mock interviews, multi-language code execution, performance tracking, and AI-powered capabilities**.
 
-My primary contribution focused on building the **frontend experience using React and JavaScript**.
+My primary contribution focused on the **frontend**, where I worked with **React and JavaScript** to build the user-facing experience.
 
 **Built with**
 
@@ -133,12 +132,12 @@ My primary contribution focused on building the **frontend experience using Reac
 
 ```text
 > Artificial Intelligence
-> Building more intelligent applications
-> Full-stack application development
-> Turning ideas into practical software
+> Intelligent applications
+> Full-stack development
+> Better software through continuous learning
 ```
 
-I'm particularly interested in exploring the point where **software engineering meets intelligence**—how AI can move beyond being a feature and become part of applications that genuinely improve how people interact with technology.
+I'm interested in the space where **software engineering meets intelligence**—exploring how AI can become part of applications that solve problems and create more meaningful experiences.
 
 <br/>
 
@@ -146,13 +145,13 @@ I'm particularly interested in exploring the point where **software engineering 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[REPLACE_GITHUB_USERNAME]&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishikakpc&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=[REPLACE_GITHUB_USERNAME]&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikakpc&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[REPLACE_GITHUB_USERNAME]&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikakpc&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" />
 
 </div>
 
@@ -160,7 +159,7 @@ I'm particularly interested in exploring the point where **software engineering 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[REPLACE_GITHUB_USERNAME]&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishikakpc&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -171,13 +170,13 @@ I'm particularly interested in exploring the point where **software engineering 
 <div align="center">
 
 <p>
-  <a href="[REPLACE_LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/rishika-kp-1aa048414/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[REPLACE_EMAIL]">
+  <a href="mailto:rishikakpk@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/[REPLACE_GITHUB_USERNAME]">
+  <a href="https://github.com/rishikakpc">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
